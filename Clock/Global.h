@@ -12,7 +12,7 @@
 
 
 #define SHOW_CLOCK		0x01
-#define SHOW_MENU		0x02
+#define SHOW_MENU		  0x02
 #define SHOW_SET_DATE	0x03
 #define SHOW_SET_TIME	0x04
 
