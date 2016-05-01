@@ -4,11 +4,11 @@
 #include <avr/io.h>
 #include <avr/interrupt.h>
 
-#define KEY_DOWN	0x01
-#define KEY_UP		0x02
-#define KEY_LEFT	0x03
+#define KEY_DOWN  0x01
+#define KEY_UP    0x02
+#define KEY_LEFT  0x03
 #define KEY_RIGTH	0x04
-#define KEY_OK		0x05
+#define KEY_OK    0x05
 
 
 #define SHOW_CLOCK		0x01
